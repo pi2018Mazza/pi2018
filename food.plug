@@ -1,0 +1,10 @@
+[Core]
+Name = Food
+Module = food
+
+[Python]
+Version = 3
+
+[Documentation]
+description = Mensagens de food
+
